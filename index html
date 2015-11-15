@@ -1,0 +1,152 @@
+ header {
+        background-color:;
+        padding:5px;
+        font-size: ;
+        display: block;
+        width: 790px;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+/*More custom coding*/
+​
+​
+.Know
+  {background-color: #c26b0a; padding: 10px}
+.b1
+  {background-color: #cc7130;font: 15px arial, sans-serif; padding: 10px}
+.b2
+  {background-color: #b53600;font: 15px arial, sans-serif; padding: 10px}
+.b3
+  {background-color: #c2150a;font: 15px arial, sans-serif; padding: 10px}
+keanuxknight [4:44 PM]
+uploaded an image: SQ cuebone.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ huge.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ mussle.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ powerranger.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ bear.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ jedi.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ mario.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ para.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ rocky.jpg
+Add Comment
+keanuxknight [4:44 PM]
+uploaded an image: SQ toothy.jpg
+Add Comment
+new messages
+the_jrrobinson [5:26 PM]
+added a HTML snippet: htmls and CSSs
+<html>
+  <head>
+    <title>
+      S.T.F.S.
+    </title>
+    <link rel="stylesheet" href="top_nav.css" type="text/css">
+  </head>
+​
+    <body><center>
+      <header>
+Add Comment Click to expand inline 48 lines
+the_jrrobinson [5:26 PM]
+added a CSS snippet: StylesB.css
+header {
+        float: center;
+        background-color: ;
+        padding: 5px;
+        font-size: 25px;
+        display: block;
+    }
+    nav {
+        float: center;
+        display: block;
+Add Comment Click to expand inline 35 lines
+the_jrrobinson [5:26 PM]
+added a CSS snippet: top_nav.css
+html {
+      height: 100%;
+    }
+    body {
+       width: 1600px;
+       height: 100%;
+       display: block;
+       text-align: center;
+    }
+​
+Add Comment Click to expand inline 56 lines
+the_jrrobinson [5:27 PM]
+added a HTML snippet: Beastiary.html
+<html>
+  <head>
+  <link rel="stylesheet" href="StylesB.css" type="text/css">
+    <title> Squirrel Bestiary </title>
+  </head>
+   <header>
+        <h1>
+          <center>Save the Flying Squirrels!<center>
+        </h1>
+      </header>
+Add Comment Click to expand inline 38 lines
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ beard.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ cuebone.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ huge.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ mussle.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ powerranger.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ Sarah.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ bear.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ jedi.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ mario.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ para.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ rocky.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ Squirrel.jpg
+Add Comment
+the_jrrobinson [5:27 PM]
+uploaded an image: SQ toothy.jpg
